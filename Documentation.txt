@@ -1,5 +1,8 @@
 # Library Management System - Documentation  
 
+## TO get the project into your personal device
+Clone the project by this github URL 'https://github.com/IbrahimHafiz1/LibraryManagementSystem.git'
+
 ## 📌 **Overview**  
 The **Library Management System** is a desktop application built using **C# and Windows Forms** to help manage books efficiently.  
 It allows users to **add, search, borrow, and return books**, keeping track of available and borrowed copies.  
