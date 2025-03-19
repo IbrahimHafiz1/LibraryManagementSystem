@@ -1,0 +1,14 @@
+D:\projects\Uni projects\library\LibraryManagementSystem\bin\Debug\net9.0-windows\LibraryManagementSystem.exe
+D:\projects\Uni projects\library\LibraryManagementSystem\bin\Debug\net9.0-windows\LibraryManagementSystem.deps.json
+D:\projects\Uni projects\library\LibraryManagementSystem\bin\Debug\net9.0-windows\LibraryManagementSystem.runtimeconfig.json
+D:\projects\Uni projects\library\LibraryManagementSystem\bin\Debug\net9.0-windows\LibraryManagementSystem.dll
+D:\projects\Uni projects\library\LibraryManagementSystem\bin\Debug\net9.0-windows\LibraryManagementSystem.pdb
+D:\projects\Uni projects\library\LibraryManagementSystem\obj\Debug\net9.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Uni projects\library\LibraryManagementSystem\obj\Debug\net9.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+D:\projects\Uni projects\library\LibraryManagementSystem\obj\Debug\net9.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+D:\projects\Uni projects\library\LibraryManagementSystem\obj\Debug\net9.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\projects\Uni projects\library\LibraryManagementSystem\obj\Debug\net9.0-windows\LibraryManagementSystem.dll
+D:\projects\Uni projects\library\LibraryManagementSystem\obj\Debug\net9.0-windows\refint\LibraryManagementSystem.dll
+D:\projects\Uni projects\library\LibraryManagementSystem\obj\Debug\net9.0-windows\LibraryManagementSystem.pdb
+D:\projects\Uni projects\library\LibraryManagementSystem\obj\Debug\net9.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+D:\projects\Uni projects\library\LibraryManagementSystem\obj\Debug\net9.0-windows\ref\LibraryManagementSystem.dll
