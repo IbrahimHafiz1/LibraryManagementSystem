@@ -12,7 +12,7 @@
 ## 🔧 **How to Run the Project**
 ### 1️⃣ **Clone or Download the Repository**
 ```sh
-git clone https://github.com/your-repo/library-management.git
+git clone https://github.com/IbrahimHafiz1/LibraryManagementSystem.git
 Or, Download as ZIP and extract.
 
 2️⃣ Open in Visual Studio

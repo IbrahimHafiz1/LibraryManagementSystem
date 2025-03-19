@@ -1,0 +1,56 @@
+# Library Management System - Documentation  
+
+## 📌 **Overview**  
+The **Library Management System** is a desktop application built using **C# and Windows Forms** to help manage books efficiently.  
+It allows users to **add, search, borrow, and return books**, keeping track of available and borrowed copies.  
+
+---
+
+## 🔥 **Features**  
+### 🏛 **Book Management**
+- Add books with **Title, Author, and ISBN**.  
+- If a book with the **same title and author** exists, it **increases the quantity** instead of adding a new row.  
+- If the **same title but a different author** is added, it is shown **as a separate entry**.  
+
+### 🔍 **Search Functionality**
+- Search books **by title**.  
+- Results **show available and borrowed copies** for clarity.  
+
+### 📚 **Borrow & Return Books**
+- Click on a book **row** to select it.  
+- Click **Borrow** to borrow a book (if available).  
+- Click **Return** to return a book (if it was borrowed by the user).  
+- **Borrowing works per book and author**, ensuring accurate tracking.  
+
+### 📊 **Dynamic Book Display**
+- Books are grouped by **Title and Author** for clarity.  
+- **Total Copies, Available Copies, and Borrowed Copies** are displayed.  
+- **Borrowed books show who borrowed them**.  
+
+---
+
+## 🏗 **How It Works**  
+1️⃣ **Adding a Book**  
+   - Enter **Title, Author, ISBN** → Click "Add Book".  
+   - If the book exists, it increases the **quantity**.  
+
+2️⃣ **Searching for Books**  
+   - Enter a search term → Click "Search".  
+   - Results show **borrowed and available copies separately**.  
+
+3️⃣ **Borrowing a Book**  
+   - Click a book row → Click "Borrow".  
+   - If available, it updates the **borrowed count**.  
+
+4️⃣ **Returning a Book**  
+   - Click a book row → Click "Return".  
+   - If you borrowed it, it **decreases the borrowed count**.  
+
+---
+
+## 🛠 **Tech Stack Used**  
+- **Language:** C#  
+- **Framework:** .NET Windows Forms (WinForms)  
+- **Database:** In-Memory Data Storage (List-based)  
+
+📌 **Author:** Your Name  
